@@ -1,0 +1,23 @@
+title: Iglesia Cristiana Cuadrangular Modelo Estándar
+url: https://modelo.iglesiacuadrangular.com.ve
+email: agape@iglesiacuadrangular.com.ve
+description: Iglesia Cristiana Cuadrangular Modelo Estándar.
+baseurl: ""
+disqus: IglesiaCuadrangular
+google_analytics: UA-60076044-6
+
+facebook:
+    app_id: 467818103369447
+    version: v3.2
+
+author: Iglesia Cuadrangular
+logo: https://iglesiacuadrangular.com.ve/images/logo.png
+lang: es
+markdown: kramdown
+remote_theme: IglesiaCristianaCuadrangular/jekyll-theme-cuadrangular
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
